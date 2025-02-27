@@ -24,3 +24,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 ### License
 
 [MIT](https://mit-license.org/)
+
+---
+
+### Images 
+
+![Lorem picsum gorsel](https://cdn.prod.website-files.com/658d627c8d384d416989b728/658d6f812c0ec7b8fc918028_Kodluyoruz_Turuncu%20logo_Kare.png)
